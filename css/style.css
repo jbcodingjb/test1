@@ -2,6 +2,8 @@
 @import "common.css";
 
 body {
+    background: orange;
+    font-size: 200px;
     font-family: "Hyundai", sans-serif;
     font-weight: 300;
 }
